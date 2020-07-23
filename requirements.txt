@@ -1,0 +1,3 @@
+aio-pika==3.0.1
+-e git://github.com/Alexander35/telnet_device_operator.git#egg=telnet_device_operator
+-e git://github.com/Alexander35/amqp_handler.git#egg=amqp_handler
