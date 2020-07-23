@@ -5,6 +5,7 @@ import json
 import datetime
 import logging
 import json
+import os
 
 logger = logging.getLogger('rmq_telnet_operator')
 logger.setLevel(logging.DEBUG)
